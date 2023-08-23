@@ -1,0 +1,22 @@
+.loading {
+  background: grey;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 30px;
+}
+
+.title {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.container {
+  background: beige;
+  font-size: 15px;
+}
+
+.content-container {
+  padding: 24px;
+}
